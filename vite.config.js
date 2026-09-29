@@ -7,5 +7,4 @@ export default defineConfig({
     react(),
     tailwindcss(), // <-- Adicione o plugin na lista
   ],
-  base: "/hub-russian-literature/",
 });
